@@ -1,0 +1,33 @@
+
+header, footer {
+    padding: 1em;
+    color: #1e30d6;
+    background-color: #ff6600;
+    clear: left;
+    text-align: center;
+}
+.left {
+  position: relative;
+  left: -40px;
+}
+}
+#nature {
+  vertical-align: text-baseline;
+}
+
+ol{
+  list-style-type: lower-roman;
+}
+img {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+
+
