@@ -1,0 +1,42 @@
+
+header, footer {
+    padding: 1em;
+    color: #1e30d6;
+    background-color: #ff6600;
+    clear: left;
+    text-align: center;
+}
+.left {
+  position: relative;
+  left: 0px;
+}
+p.center {
+    text-align: center;
+    color: black;
+}
+
+#nature {
+  vertical-align: text-baseline;
+}
+
+ul {
+  text-align: center;
+  color: #33ccff;
+}
+img {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+body {
+  background-image: url("flower.gif");
+  background-color: #b3d9ff;
+}
+
+
+
